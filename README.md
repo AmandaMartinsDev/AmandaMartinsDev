@@ -1,5 +1,5 @@
 <h2 align="center">Hey, it's me, Amanda Martins! 👋</h2>
-<h4 align="center">A passionate software engineering and content creator from São Paulo, Brazil</h4>
+<h4 align="center">A passionate software engineering and content creator from São Paulo, Brazil.</h4>
 
 <p align="center"> 
  <a href="https://twitter.com/mandysdev" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Link to Twitter"></a> 
@@ -11,17 +11,17 @@
  <a href="https://dev.to/mandysdev" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Link to dev.to"></a>
 </p>
 
-- 👩🏻‍🎓 I'm pursuing a **System Analysis and Development's degree**
+- 👩🏻‍🎓 I'm pursuing a **System Analysis and Development's degree**.
 
-- 🌱 Currently specializing in **Azure, C# and .NET**
+- 🌱 Currently specializing in **Azure, C# and .NET**.
 
-- 🤝 Looking for collaborate and create **open-source projects**
+- 🤝 Looking for collaborate and create **open-source projects**.
 
-- 📢 Pronouns are **she/her**
+- 📢 Pronouns are **she/her**.
 
-- 💾 Passionate about **retro tech and game stuff**
+- 💾 Passionate about **retro tech and game stuff**.
 
-- 💬 Ask me about **career, cloud applications and game dev**
+- 💬 Ask me about **career, cloud applications and game dev**.
 
 <p align="center"> 
  <a href="https://discord.gg/WQttewuRGa" target="blank"><img src="https://img.shields.io/badge/Join%20Hub%20Tech-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Invite to Hub Tech discord server"></a> 
