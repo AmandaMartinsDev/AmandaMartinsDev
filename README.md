@@ -13,7 +13,7 @@
 
 - 👩🏻‍🎓 I'm pursuing a **System Analysis and Development's degree**.
 
-- 🌱 Currently specializing in **Azure, C# and .NET**.
+- 🌱 Currently specializing in **AWS, C# and .NET**.
 
 - 🤝 Looking for collaborate and create **open-source projects**.
 
