@@ -10,16 +10,16 @@ class: 2023
 
 skills:
   languages: 
-    - C#
-    - Java
-    - Ruby
-    - JavaScript
-    - TypeScript
+    - csharp
+    - java
+    - ruby
+    - javascript
+    - typescript
   frameworks: 
-    - .NET
-    - Spring
-    - Rails
-    - Vue
-    - Nuxt
-    - Angular
+    - dotnet
+    - spring
+    - rails
+    - vue
+    - nuxt
+    - angular
 ```
