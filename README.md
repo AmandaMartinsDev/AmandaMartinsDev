@@ -9,16 +9,16 @@ university: Senac University Center
 class: 2023
 
 skills:
-  languages: 
+  languages:
+    - ruby
     - csharp
     - java
-    - ruby
     - javascript
     - typescript
-  frameworks: 
+  frameworks:
+    - rails
     - dotnet
     - spring
-    - rails
     - vue
     - nuxt
     - angular
